@@ -138,7 +138,7 @@ public class Connect4 extends JFrame implements ActionListener {
                 }
             }else{
                 ganaJugador1=0;
-                ganaJugador1=0;
+                ganaJugador2=0;
             }
        }
     
